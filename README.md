@@ -26,3 +26,5 @@ Welcome to the Hospitality Data Analysis project! In this project, I explored an
 ### Results
 
   The analysis revealed valuable insights into daily room availability, booking patterns, revenue generation, and room utilization. By leveraging these KPIs, we can make informed decisions to enhance the hotel's overall performance and guest experience.
+
+![image](https://github.com/VishalRohidasChodankar/Hospitality_Main_Dashboard/assets/156772127/8ac852ec-ffff-49a9-954c-4c35f273d3e7)
